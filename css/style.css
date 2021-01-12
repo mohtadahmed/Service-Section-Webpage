@@ -12,7 +12,7 @@ main a {
   color: black;
   margin: 20px auto;
   padding: 20px;
-  border: 2px solid blue;
+  border: 2px solid black;
   border-radius: 20%;
 }
 main a:hover {
@@ -58,20 +58,17 @@ main a:hover {
 }
 .footer {
   background-color: black;
-  margin-top: 50px;
-}
-.footer-heading {
-  margin: 60px auto;
+  margin-top: 20px;
 }
 .social-section {
   display: inline-block;
-  padding: 40px;
+  padding: 20px;
   color: goldenrod;
 }
 .social-links {
   text-decoration: none;
   transition: 0.6s;
-  margin: 20px;
+  margin: 10px;
   color: rgba(233, 210, 151, 0.623);
 }
 .social-links:hover {
