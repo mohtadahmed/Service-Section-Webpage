@@ -7,7 +7,7 @@ header h1 {
 }
 main a {
   text-decoration: none;
-  font-size: 24px;
+  font-size: 32px;
   background-color: white;
   color: black;
   margin: 20px auto;
@@ -16,10 +16,9 @@ main a {
   border-radius: 20%;
 }
 main a:hover {
-  background: linear-gradient(120deg, #0984e3, #e84393);
-  color: azure;
+  color: black;
   border: 2px solid white;
-  transition-duration: 0.5s;
+  transition-duration: 0.6s;
 }
 .heading {
   display: inline-block;
